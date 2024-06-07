@@ -1,0 +1,18 @@
+[
+  {
+    "Frage": "was?",
+    "Antwort A": "hund",
+    "Antwort B": "Katze",
+    "Antwort C": "Vogel",
+    "Antwort D": "Maus",
+    "Lösung": "Antwort A"
+  },
+  {
+  "Frage": "Wer?",
+  "Antwort A": "Tim",
+  "Antwort B": "Ensar",
+  "Antwort C": "Lukas",
+  "Antwort D": "Paul",
+  "Lösung": "Antwort A"
+  }
+]
